@@ -1,0 +1,13 @@
+
+---
+title: "Randomized term grouping over physical law on digital quantum simulation"
+collection: Arxiv
+category: manuscripts
+permalink: /publication/2023-09-24
+excerpt: 'This paper is about PhysDrift, the new Hamiltonian algorithm designed upon qDrift.'
+date: 2024-11-23
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://arxiv.org/abs/2411.17756)'
+citation: 'Yang, Songqinghao. "Randomized term grouping over physical law on digital quantum simulation." arXiv preprint arXiv:2309.14378 (2023).'
+---
+
+We introduce a randomized algorithm based on qDrift to compute Hamiltonian dynamics on digital quantum computers. We frame it as physDrift because conservation laws in physics are obeyed during evolution of arbitrary quantum states. Empirically we achieved better spectral error reduction with hydrogen chain model compared to previous protocols. Noisy model are investigated as well and we characterised them in the circuit with different schemes, i.e. an attenuation of the measured expectation value is fixed by keeping the circuit depth the same and depolarising error is simulated with randomly applied Pauli gates. This makes it our proposal particularly feasible for implementing and testing on present-day noisy hardware.
