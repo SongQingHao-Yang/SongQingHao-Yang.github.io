@@ -1,8 +1,6 @@
 ---
 title: "Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications"
-collection: publications
 category: manuscripts
-permalink: 'https://arxiv.org/pdf/2411.17756'
 excerpt: 'Circuit cutting allows quantum circuits larger than the available
 hardware to be executed. Cutting techniques split circuits into
 smaller subcircuits, run them on the hardware, and recombine results through classical post-processing. Circuit cutting techniques
