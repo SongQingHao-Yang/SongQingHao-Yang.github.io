@@ -12,7 +12,7 @@ I am Song-qing-hao Yang (杨宋卿皞, Peter), a first-year PhD Student at [Cave
 
 ## Research Interest
 
-My passion lies in exploring the fascinating realm of quantum information and computation, with a particular curiosity about understanding and building quantum computers in practice, if possible. My research interests span a diverse range of topics, including Hamiltonian simulation, architectural design in fault-tolerant quantum computing, distributed quantum computation, algorithm development, and quantum machine learning. I am also intrigued by the role of magic states in enabling quantum computation.  
+My passion lies in exploring the fascinating realm of quantum information and computation, with a particular curiosity about understanding and building quantum computers in practice, if possible. My research interests span a diverse range of topics, including Hamiltonian simulation algorithm development, distributed quantum architectural design (resource estimation) in fault-tolerant quantum computing, quantum metrology and quantum machine learning. I am also intrigued by the role of magic states in enabling quantum computation.  
 
 I thrive on collaboration and interdisciplinary work, so if our interests align, please don’t hesitate to get in touch—I’d love to connect and explore opportunities to work together!
 
