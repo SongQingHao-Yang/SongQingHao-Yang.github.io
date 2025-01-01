@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size: 100%;">Click here to download: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/assets/img/cv_py.pdf" target="_blank" class="btn btn-success"><span style="font-size: 120%;">Curriculum Vitae</span></a>
+<span style="font-size: 100%;">Click here to download: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/images/cv_py.pdf" target="_blank" class="btn btn-success"><span style="font-size: 120%;">Curriculum Vitae</span></a>
 
