@@ -21,7 +21,7 @@ repository               : "SongQingHao-Yang/SongQingHao-Yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cropped.png"
+  avatar           : "cropped.jpg"
   name             : "Song-Qing-Hao Yang (Peter)"
   pronouns         : # example: "she/her"  
   bio              : "A quantum info/comp physicist trying to figure out what a quantum computer actually is"
