@@ -1,0 +1,20 @@
+---
+title: "Hybrid Quantum Annealing on Clinical trials"
+collection: talks
+type: "talks"
+permalink: /talks/2024-10-31
+date: 2024-10-31
+location: "Online"
+---
+
+[See the post here](https://www.linkedin.com/feed/update/urn:li:activity:7250593642224967680)
+[More information here](https://www.youtube.com/watch?v=peazYkETsUY)
+
+
+Problem organized by [Aqora](https://aqora.io/competitions/ingenii-clinical-trial) and hosted by [Ingenii](https://www.ingenii.io/quantum-hub):
+
+Assigning subjects to treatment groups is is pivotal in experimental clinical trials for novel drugs. A critical component involves identifying distinct subject cohorts suitable for specific treatments. These cohorts should exhibit maximum similarity based on measurable covariates (or attributes), which influence individual responses to treatment, thus enabling the differentiation of treatment effects from confounding factors.
+
+On average, clinical trials for newly approved drugs incur costs of $1 billion, with a failure rate of 70%. In 2010, global pharmaceutical companies allocated $32.5 billion to conduct clinical trials out of a total research and development expenditure of $46.4 billion. The financial and temporal constraints of this complex process requires accurate patient stratification to enhance the likelihood of success.
+
+The objective of the assignment is to minimize the discrepancy between any two groups in the weighted sum of the first and second moments of the covariates. 
