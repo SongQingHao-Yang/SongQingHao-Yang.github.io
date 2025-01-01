@@ -1,11 +1,7 @@
 ---
-layout: research
-title: 'Quantum simulation on NV center'
-# author: peteryang
-tags: [researches]
-img: nv.jpeg
-display-order: 1
-description: >
+title: "2021-06-30-Robotics&DL.md"
+excerpt: "EXperiments on NV centers<br/><img src='/files/NV.png'>"
+collection: portfolio
 ---
 
 Advisor: Dr. Helena Knowles (Assistant Professor
@@ -29,7 +25,7 @@ with the real data to help improve the technique.
 # Isolated NV centers
 For a typical NV center we can visualize it as following
 
-![](/public/img/NV_img/NV.png)
+![](/files/NV.png)
 
 where it consists of a nitrogen center with electon triplet and it can interact
 with the $C^{13}$ as well as other NV centers in the environment.
@@ -37,30 +33,30 @@ with the $C^{13}$ as well as other NV centers in the environment.
 But here we consider two isolated and simplified NV centers without interaction with the environment.
 In this case we care about the NV-NV dipole interaction.
 
-![](/public/img/NV_img/curve.png)
+![](/files/curve.png)
 
 the parameter we are interested in is the magnetic dipolar coupling $\omega$ and the $\gamma_i$, $\gamma_j$ in the formula
 is gyromagnetic ratio of the 'i' and 'j' spin (rad/(s.T)).
 
 For an electron the value is $\gamma_e$ = $1.760859644*10^{11}$ (rad/(s.T)).
 
-![](/public/img/NV_img/linear.png)
+![](/files/linear.png)
 
 we used MATLAB to simulate the coupling coefficient.
 
-![](/public/img/NV_img/coeff.png)
-![](/public/img/NV_img/coeff_linear.png)
+![](/files/coeff.png)
+![](/files/coeff_linear.png)
 
 we also want to simulate multiple coupling constant. For example, place each NV centers on a corner of the octahedron and see how the coupling changes. We can control the distance between NV centers by change the concentration of the NV centers, under the assumptions that NVs are uniformly distributed.
 
 The distribution of molecules in solution is not uniform but has a distribution. The nearst neighbor distance from one molecule to another has been worked out by [3], r = 0.55396*$n^{\frac{1}{3}}$, where n is the concentration of NVs.
 
-![](/public/img/NV_img/multi_coeff.png)
+![](/files/multi_coeff.png)
 
 Then to get a more realistic picture, we simulated a spectrum of coupling schemes and record the occurence to see the distribution of the possible configuration. To model this, consider a fixed concenration of NV centers inside a cube of given size. And because NV centers can point towards one of the 4 possible orientations of the lattice tetrahedron, which affects the coupling. We simulate the effect by taking a random distribution of the direction.
 
-![](/public/img/NV_img/configs.png)
-![](/public/img/NV_img/higher_config.png)
+![](/files/configs.png)
+![](/files/higher_config.png)
 
 We changed the concentration above.
 
@@ -88,19 +84,19 @@ Rabi oscillation is a phenomenon that occurs in quantum systems when they are su
 
 In simple terms, Rabi oscillation describes the periodic and reversible exchange of energy between a two-level quantum system and an external field. The two levels of the system can be represented as the ground state (|0⟩) and an excited state (|1⟩). When the system is in the ground state, the external field can induce transitions to the excited state, and vice versa.
 
-![](/public/img/NV_img/rabi.png)
+![](/files/rabi.png)
 
 The dynamics of Rabi oscillation can be described by the Schrödinger equation in quantum mechanics or the Bloch equations in the context of spin systems. The amplitude and frequency of the oscillation depend on the strength and duration of the applied field. The Rabi frequency (Ω) represents the strength of the coupling between the system and the external field.
 
 Detuning refers to the situation when the frequency of the applied field deviates from the resonant frequency of the quantum system. In other words, the external field is not perfectly matched to the energy difference between the two levels. When detuning occurs, the system still undergoes oscillations, but the amplitude and frequency of the oscillation change.
 
-![](/public/img/NV_img/rabi_states.png)
+![](/files/rabi_states.png)
 
 Above we used [qutip](https://qutip.org/docs/latest/guide/guide-overview.html) to simulate the probability for the atom being in one particular state.
 
 Qutip is a very powerful package. We can have a brief look at the simulation for T2 relaxation,arising from the interactions between the electronic spin of the NV center and its surrounding environment, which can include nuclear spins, lattice vibrations, and magnetic field fluctuations. These interactions cause the quantum phase information of the spin state to become randomized, leading to a loss of coherence.
 
-![](/public/img/NV_img/T2.png)
+![](/files/T2.png)
 
 ```
 import numpy as np
@@ -153,7 +149,7 @@ where $\Delta(t)$ is detuning and $\omega_R$ Rabi frequency. By changing the pul
 
 Another way to simplify rabi simulation is to consider the Interaction Picture and Rotation Wave Approximation (RWA) [3]
 
-![](/public/img/NV_img/rwa.png)
+![](/files/rwa.png)
 
 $$
 \hat{H}=-\frac{\Delta}{2}\sigma_z+\frac{\omega_1}{2}\sigma_x
@@ -175,21 +171,21 @@ where we have ignored the higher frequency order terms.
 
 Next, we tried to find the Dzfs value at 2.87GHz from a microwave sweep.
 
-![](/public/img/NV_img/sweep.png)
+![](/files/sweep.png)
 
 With a magnetic field and external decoherence factor applied, the tip splited and shifted at a different value as below:
 
-![](/public/img/NV_img/two_dip.png)
+![](/files/two_dip.png)
 
 # Data matching
 
 With the above tested, we switched back to MATLAB with the algorithm used in qutip. Now experiementally we have obtained some pulse data and we fitted as well as optimized them as following:
 
-![](/public/img/NV_img/fit.png)
+![](/files/fit.png)
 
 Rabi oscillation fit. Although we have some flctuations around the dip, we can see on a large scale, the simulation matches pretty well.
 
-![](/public/img/NV_img/ram.png)
+![](/files/ram.png)
 
 This is the ramsey pulse fit. A Ramsey pulse [4] is based on the principle of quantum interference. It exploits the property of superposition, where a quantum system can exist in multiple states simultaneously. In the case of a qubit, it can be in a superposition of both the 0 and 1 states.
 
@@ -201,7 +197,7 @@ Next, a phase shift is applied to the qubit. This phase shift is typically imple
 
 The phase shift introduces a relative phase between the two superposed states. The resulting state becomes (|0⟩ + e^(iθ)|1⟩)/√2, where θ is the phase angle determined by the duration of the phase shift pulse.
 
-![](/public/img/NV_img/ramsey.png)
+![](/files/ramsey.png)
 
 Finally, another H gate is applied to the qubit. This second H gate effectively rotates the qubit's state by another 90 degrees, bringing the relative phase introduced by the Ramsey time into an observable effect.
 
