@@ -2,14 +2,8 @@
 title: "Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-23
-excerpt: 'This paper is about the resource estimation for circuit cutting in the fault-tolerant setting.'
-date: 2024-11-23
-paperurl: 'https://arxiv.org/abs/2411.17756'
-citation: 'Yang, Songqinghao, and Prakash Murali. "Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications." arXiv preprint arXiv:2411.17756 (2024).'
----
-
-Circuit cutting allows quantum circuits larger than the available
+permalink: 'https://arxiv.org/pdf/2411.17756'
+excerpt: 'Circuit cutting allows quantum circuits larger than the available
 hardware to be executed. Cutting techniques split circuits into
 smaller subcircuits, run them on the hardware, and recombine results through classical post-processing. Circuit cutting techniques
 have been extensively researched over the last five years and it been
@@ -29,4 +23,10 @@ runtime and the classical post-processing overhead as the qubit
 count increases renders it impractical for larger quantum systems
 with current implementation strategies. As we transition from noisy
 quantum hardware to fault-tolerance, our work provides important
-guidance for the design of quantum software and runtime systems.
+guidance for the design of quantum software and runtime systems.'
+date: 2024-11-23
+paperurl: 'https://arxiv.org/abs/2411.17756'
+citation: 'Yang, Songqinghao, and Prakash Murali. "Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications." arXiv preprint arXiv:2411.17756 (2024).'
+---
+
+
