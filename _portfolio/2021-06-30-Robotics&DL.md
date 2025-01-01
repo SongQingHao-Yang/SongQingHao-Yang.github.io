@@ -1,16 +1,12 @@
 ---
-layout: project
-title: 'All stuff about Robotics'
-# author: peteryang
-tags: [projects]
-img: cur.jpeg
-display-order: 1
-description: >
+title: "2021-06-30-Robotics&DL.md"
+excerpt: "Robotics&DL<br/><img src='/files/NN.jpg'>"
+collection: portfolio
 ---
 
 # Mini-bot Competition
 
-![](/public/img/cur.jpeg)
+![](/files/cur.jpeg)
 
 Teamwork to design a robot to compete for blocks pick-ups in an arena. 
 
@@ -21,13 +17,13 @@ Teamwork to design a robot to compete for blocks pick-ups in an arena.
 Watch the competition recording!
 
 <video muted playsinline>
-  <source src="/public/video/mini_bot.mp4" type="video/mp4">
+  <source src="/files/mini_bot.mp4" type="video/mp4">
 </video>
 
 
 # Inmoov
 
-![](/public/img/inmoov.png)
+![](/files/inmoov.png)
 
 - use ROS to create a custom message of different joint angle and send them as service to control the robot
 - body part detection with webcam
@@ -36,7 +32,7 @@ See the official [website](https://curobotics.soc.srcf.net/projects/inmoov-human
 
 # Computer! Sort Out my PDF
 
-![](/public/img/gnn.jpg)
+![](/files/gnn.jpg)
 
 Advisor: Dr. Aldo Lipani (Assistant Professor, University College London)
 
@@ -47,7 +43,7 @@ represent pages and links to represent their order) (article & code source not p
 
 # Fabrica.AI winter Intern
 
-![](/public/img/fabrica.jpg)
+![](/files/fabrica.jpg)
 
 - Validate and evaluate tf2 object detection model for the robot and fine-tuning
 
