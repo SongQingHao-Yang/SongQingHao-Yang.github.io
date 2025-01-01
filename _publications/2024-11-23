@@ -1,12 +1,11 @@
 ---
 title: "Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications"
-collection: Arxiv
+collection: publications
 category: manuscripts
 permalink: /publication/2024-11-23
 excerpt: 'This paper is about the resource estimation for circuit cutting in the fault-tolerant setting.'
 date: 2024-11-23
-venue: 'Journal 1'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://arxiv.org/abs/2411.17756)'
+paperurl: 'https://arxiv.org/abs/2411.17756'
 citation: 'Yang, Songqinghao, and Prakash Murali. "Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications." arXiv preprint arXiv:2411.17756 (2024).'
 ---
 
