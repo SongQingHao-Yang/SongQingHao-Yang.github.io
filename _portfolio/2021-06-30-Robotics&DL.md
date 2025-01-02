@@ -1,6 +1,6 @@
 ---
-title: "2021-06-30-Robotics&DL.md"
-excerpt: "Robotics&DL<br/><img src='/files/NN.jpg'>"
+title: "AI-stuff"
+excerpt: "<img src='/files/NN.jpg'>"
 collection: portfolio
 ---
 
@@ -16,9 +16,7 @@ Teamwork to design a robot to compete for blocks pick-ups in an arena.
 
 Watch the competition recording!
 
-<video muted playsinline>
-  <source src="/files/mini_bot.mp4" type="video/mp4">
-</video>
+![](/files/mini_bot.mp4)
 
 
 # Inmoov
