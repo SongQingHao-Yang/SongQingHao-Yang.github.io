@@ -1,13 +1,8 @@
 ---
-layout: research
-title: 'Quantum Inspired Super-resolution'
-# author: peteryang
-tags: [researches]
-img: quantum-metrology-quest.png
-display-order: 1
-description: >
+title: "Quantum Inspired Super-resolution"
+excerpt: "<img src='/files/quantum-metrology-quest.png'>"
+collection: portfolio
 ---
-
 Advisor: Dr.David Arvidsson (Hitachi, University of Cambridge)
 
 Please see the repository for the work [here](https://github.com/AprilSweettooth/Bayesian/tree/main) and the [manuscript](https://www.overleaf.com/read/qxbjvpfmxjbx#620593).
