@@ -1,11 +1,7 @@
 ---
-layout: project
-title: 'Integrated Quantum Photonics with Semiconductor Single Photon Sources'
-# author: peteryang
-tags: [projects]
-img: qd.jpeg
-display-order: 1
-description: >
+title: "Integrated Quantum Photonics with Semiconductor Single Photon Sources"
+excerpt: "<img src='/files/NV.png'>"
+collection: portfolio
 ---
 
 Supervisor: Mete Atature (Professor of Physics, Fellow, Director of Studies and Tutor at St. John’s College)
@@ -21,13 +17,13 @@ Integrated quantum photonics (IQP) has emerged as a promising platform for the g
 
 Traditionally, single photon sources were realized using bulk optics setups, which are complex and challenging to miniaturize. However, by leveraging the principles of integrated photonics, as with integrated electronics, researchers have made significant strides in developing compact and efficient single photon sources that can be seamlessly integrated into chip-scale devices. These integrated single photon sources offer several advantages over their bulk counterparts, including enhanced stability, scalability, and compatibility with on-chip quantum circuits.
 
-![](/public/img/qd_img/klm.jpeg)
+![](/files/klm.jpeg)
 
 One approach to realizing single photon sources in IQP is through the use of quantum emitters embedded in photonic waveguides or cavities. Quantum dots (QD), for example, have been extensively studied as solid-state emitters capable of emitting single photons on demand. By integrating quantum dots with photonic structures, such as nanowires or photonic crystal cavities, researchers have achieved high-efficiency single photon emission with precise control over the emission wavelength and polarization.
 
 In this paper, we review the recent advancements in GaAs based single photon sources using integrated quantum photonics. We discuss the background of light matter interaction in QD (section 2), different approaches (section 3), and fabrications (section 4). Furthermore, we explore the applications and future prospects of integrated single photon sources in the context of Boson sampling (section 5) and other emerging quantum technologies.
 
-![](/public/img/qd_img/qd.png)
+![](/files/qd.png)
 
 Quantum dots are materials that have dimensions and atom numbers falling between the atomic-molecular level and bulk materials, and their band-gap depends on a variety of factors in a complex manner. For instance, the band gap of InAs quantum dots sandwiched between GaAs layers is much larger at 1.25 eV, as opposed to the bulk InAs value of $\sim$ 0.4eV. Isolated single atoms exhibit sharp and narrow luminescent emission peaks, while nanoparticles consisting of 100-1000 atoms display different narrow optical lines. The most critical feature of quantum dots is their quantum confinement, which imparts a $\delta$-function-like density of states as in Figure 2.
 
@@ -43,14 +39,14 @@ Usually the the heavy-hole–light-hole degeneracy is lifted in a self-assembled
 
 Single photons are generated when an electron-heavy-hole pair has anti-parallel spins, which is referred to as a bright exciton. Conversely, when the electron and hole spins are parallel to one another, a dark exciton is produced. The exchange interaction between the pair leads to energy splitting, known as fine structure splitting (FSS), between the bright and dark states.
 
-![](/public/img/qd_img/img/split.png)
+![](/files/split.png)
 
 The bright exciton preferentially decays through radiative recombination channel while dark exciton decay through non-radiative channels. Although this means that the dark exciton has much longer lifetime, we need bright excitons as the photon source. Interestingly, by engineering the spin-flip, dark exciton undergoes a transition into a bright exciton.
 
 
-![](/public/img/qd_img/img/hv.png)
+![](/files/hv.png)
 
-![](/public/img/qd_img/img/sum_exciton.png)
+![](/files/sum_exciton.png)
 
 ## Exciton exciton interaction
 
@@ -64,7 +60,7 @@ $$
 
 To achieve entanglement, two conditions must be met: the intermediate exciton states should be degenerate, and the final state of the quantum dot (QD) must be unaffected by the decay path. Suppression of Fine Structure Splitting (FSS) is crucial as it allows the biexciton to decay into two bright excitons with opposite circular polarizations. In order to generate an entangled pair of excitons, the FSS value must be smaller than the exciton linewidth to ensure that the decay process is indistinguishable. The state of art fidelity of entanglement generation has already exceeded 97%.
 
-![](/public/img/qd_img/img/intensity_ex.png)
+![](/files/intensity_ex.png)
 
 # Photonic Structure
 ## Cavity
@@ -97,7 +93,7 @@ However, in practical photonic cavities, it is highly probable that the resonanc
 
 Micropillar cavities are a popular choice for High-Q cavities and are typically fabricated using alternating layers of different refractive indices grown epitaxially. Each layer has a thickness of $\lambda=4n_i$ (where i=1,2) and forms a Bragg mirror with reflectivity controlled by the number of layers. The height of the micropillar is typically around 10 $\mu$m, with a diameter of a few microns. However, there is a trade-off between volume size and quality factor, as smaller cavities have a restricted lateral extension of the guided mode but are also more sensitive to sidewall roughness. The Bragg mirror is grown to allow one side of the cavity to be highly reflective while the other is optimized for photon transmission. High-Q factors can be observed in micropillar resonators up to 250,000, making them ideal for vertical-emitting single-photon sources. While out-of-plane confinement relies on total internal reflection at the membrane-air interface, air holes are drilled in a lattice geometry of semiconductor material, to achieve in-plane confinement by introducing a photonic band gap.  Micropillar cavities with embedded QDs have been shown to generate single photons with high efficiency and an indistinguishability of 90\% was recently reported.
 
-![](/public/img/qd_img/img/cav.png)
+![](/files/cav.png)
 
 ## Photonic-crystal cavity
 
@@ -119,7 +115,7 @@ $$
 
 where n is the group index $\frac{c}{v_g}$ that specifies the slow-down factor of the waveguide. In fabrication, the structural dispersion of the Bloch modes gives rise to slow light and the mode is tightly confined to the diffraction-limited defect area. In plasmonic nanowires, Figure 7, subwavelength confinement combined with the slow propagation of the lowest-order guided mode leads to potentially large Purcell factors.
 
-![](/public/img/qd_img/img/nano.png)
+![](/files/nano.png)
 
 Waveguides rely on spontaneous-emission inhibition in all modes except one, known as mode matching. To collect photons in one direction only, tapered fibre is introduced as conventional waveguides and a metallic mirror spaced by a dielectric layer is placed at the end of nanowires. Another advantage over cavity is that waveguides have higher tolerance of deviation. A range of wavelength can propagate in the plane and the efficiency of photon collection is greater than cavity subjecting to the similar detuning.
 
@@ -146,12 +142,12 @@ Stranski-Krastanov method for InGaAs QD is most extensively studied in QD materi
 
 The lattice mismatch between InAs and GaAs creates strain during deposition: The growth of InAs on a GaAs (100) surface initially results in a thin two-dimensional (2D) wetting layer (WL), this is when more than 1.7 monolayers of InAs is deposited on GaAs. Due to the lattice-mismatch, the 2D growth mode turns into a three-dimensional (3D) growth after deposition of a few monolayers, resulting in the creation of randomly positioned QDs with a pyramidal shape (shown in Figure 8 (a)). A capping layer of GaAs is added to prevent oxidation and the intermixing results in a truncated pyramid. As crystal growth proceeds, the accumulated strain energy increases, a transition occurs and the total energy is minimized by creating InAs islands form coherent islands of InGaAs on GaAs surfaces. By stopping the growth right after this transition, the islands are typically 10–30 nm lateral size in the in-plane directions and 2–5 nm out of plane.
 
-![](/public/img/qd_img/img/sk.png)
+![](/files/sk.png)
 
 ## Droplet epitaxy
 A sometime undesired feature of the SK QDs is the unavoidable presence of the WL at the base of the dots, which generates bidimensional electronic states interconnecting the dots. This affects the QD optical properties and carrier kinetics. The WL is also detrimental in device performances, since it represents a channel for carrier escape out of the QDs. But this can be avoided by droplet epitaxy (DE).
 
-![](/public/img/qd_img/img/DE.png)
+![](/files/DE.png)
 
 Droplet epitaxy is a new technique where gallium droplets saturated with arsenic create large, low-density GaAs quantum dots in AlGaAs without a lattice-mismatch. First group-III atoms are deposited on the surface, then group-V flux is supplied to the surface to crystallize the droplets as in Figure 9. Post-growth annealing with a relatively high temperature is needed to make them optically active, which means the demonstrated quantum efficiency cannot yet compete with Stranski-Krastanov, but this method can grow large QDs in dimension and is strain-free.
 % Droplet epitaxy is an emerging growth technique, where droplets of gallium are saturated with arsenic, resulting in relatively large and low-density GaAs quantum dots in AlGaAs. This relies on the affinity of some group-III elements on a semiconductor surface and has the advantage that it does not require a lattice-mismatch between the involved materials. Since the AlGaAs capping layer is often grown at low temperatures, a high-temperature post-growth annealing is required to make them optically active and the demonstrated quantum efficiency cannot yet compete with Stranski-Krastanov quantum dots, but this method can grow large QD in dimension and is strain free.
@@ -182,32 +178,32 @@ The calculation of permanent, which belongs to the computational complexity clas
 
 Boson sampling has been experimentally demonstrated with three photons, and scalability in imperfect conditions, such as partial distinguishability has been investigated. Scattershot Boson Sampling (SBS) is an improved method, which uses spontaneous parametric down-conversion (SPDC) to reduce the experimental difficulty of emitting multiple photons by inputting a set of coherent random input photon state. This is a nonlinear process that using a pulsed pump laser with a high repetition rate to generates a separate set of entangled photon pairs and then feed them into an interferometer. The scattershot technique allows for the injection of multiple photons into the interferometer simultaneously as in Figure 10 right, resulting in more efficient sampling. Inside the interferometer, the signal photons interfere with each other, generating complex interference patterns. The output of the interferometer is then measured using photon detectors placed at the output ports, which provide information about the correlations between the input photons.
 
-![](/public/img/qd_img/boson.png)
+![](/files/boson.png)
 
 # Conclusion
 
 IQP has made significant progress in developing single photon sources, crucial for quantum photonic applications. Elshaari proposed seven fundamental components for a quantum photonic circuit, including for example, quantum memories for information storage. However, no single material system can perform all necessary tasks. Thus, hybrid integrated quantum circuits are necessary. While this may seem impractical, recent advances in semiconductor IQP devices demonstrate the feasibility of hybrid integration, with QD as single photon source. Additionally, photonic-based Boson sampling highlights the potential of quantum technologies to achieve quantum supremacy and solve computationally challenging problems paving the way for practical quantum information processing. 
 
-Download the full version [here]({{ site.url }}/public/assets/Integrated_Quantum_Photonics_with_Semiconductor_Single_Photon_Sources.pdf)
+Download the full version [here](https://github.com/SongQingHao-Yang/SongQingHao-Yang.github.io/blob/master/files/Integrated_Quantum_Photonics_with_Semiconductor_Single_Photon_Sources.pdf) with references.
 
 Besides the review, I have worked with Dr.Christian Schimpf on optimizing the wavelength fitting of cavity diode with DBR implemented. First I tried to fit the Poisson solution with the data we have:
 
 At 50K:
 
-![](../public/img/50_1.png)
-![](../public/img/50_2.png)
+![](/files/50_1.png)
+![](/files/50_2.png)
 
 At room temperature:
 
-![](../public/img/300_1.png)
-![](../public/img/300_2.png)
+![](/files/300_1.png)
+![](/files/300_2.png)
 
 The doping currently only affects our electronic properties (the function of the diode), as we do not (yet) consider light absorption in our structure. So the general rule of thumb will be that there should be a node of the light electric field in the doped layer AND the doping regions should be as small as possible, but as large as necessary, in order to minimize absorption in the real structure.
 
 The structure of the diode is shown below:
 
-![](../public/img/layer.png)
+![](/files/layer.png)
 
 and the fitting waves:
 
-![](../public/img/mirror.png)
+![](/files/mirror.png)
