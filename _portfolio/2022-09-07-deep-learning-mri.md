@@ -1,11 +1,7 @@
 ---
-layout: research
-title: 'Deep learning in MRI'
-# author: peteryang
-tags: [researches]
-img: spin.png
-display-order: 1
-description: >
+title: "Deep learning in MRI"
+excerpt: "<img src='/files/NV.png'>"
+collection: portfolio
 ---
 
 Supervisor: Prof. Chris Rogers (Fellow of Peterhouse,
