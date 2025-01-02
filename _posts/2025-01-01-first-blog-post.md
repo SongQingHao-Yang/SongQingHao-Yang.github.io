@@ -1,7 +1,7 @@
 ---
 title: 'First Blog Post'
 date: 2025-01-01
-permalink: /posts/2025-01-01
+permalink: /posts/2025/01/first-blog-post
 tags:
   - cool posts
   - category1
