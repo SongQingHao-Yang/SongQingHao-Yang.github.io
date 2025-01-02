@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Song-qing-hao Yang (杨宋卿皞, Peter), a first-year PhD Student at [Cavendish, Department of Physics](https://www.phy.cam.ac.uk/), at Cambridge, working with [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc). Prior to my current studies, I completed my Bachelor's Degree and Master of Sciences at Cambridge as well.
+I am Song-qing-hao Yang (杨宋卿皞, Peter), a first-year PhD Student at [Cavendish, Department of Physics](https://www.phy.cam.ac.uk/), at Cambridge, working with [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc). Prior to my current studies, I completed my Bachelor's Degree ([thesis here](https://songqinghao-yang.github.io/portfolio/2023-05-01-quantum-dot)) and Master of Sciences ([thesis here](https://songqinghao-yang.github.io/portfolio/2024-07-01-Quantum-Superresolution)) at Cambridge as well.
 
 ## Research Interest
 
