@@ -8,14 +8,16 @@ date: 2024-10-11
 location: "Cambridge, England"
 ---
 
-[Click for more details](https://songqinghao-yang.github.io/teaching/2024-spring-GR)
+A series of GR-related courses based on the Part-II Cambridge physics course.
 
 Lecturer: 
 
-[Professor Enrico Pjer](https://www.maths.cam.ac.uk/person/ep551)
+[Professor Enrico Pajer](https://www.maths.cam.ac.uk/person/ep551)
 
 Syllabus:
 
 The origin of all human civilization must begin with the Big Bang. Billions of years ago, in the instant the Big Bang occurred, time, space, and matter were unified, forming the universe. Since then, the universe, with its immense and mysterious power, has captivated countless scientists, driving them to explore its mysteries. The advent of Einstein's theory of relativity propelled cosmology to new heights. In the decades that followed, major discoveries in the field—such as dark matter, dark energy, cosmic redshift, and the expansion of the universe—repeatedly affirmed humanity's unwavering passion for studying the cosmos. What secrets lie at the edge of the universe? What course will humanity's future take? These are the profound questions that cosmology seeks to delve into and continually explore.
+
+You can find some handwritten notes [here](https://github.com/SongQingHao-Yang/SongQingHao-Yang.github.io/tree/master/files/GR).
 
 
