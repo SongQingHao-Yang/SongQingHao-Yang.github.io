@@ -1,6 +1,6 @@
 ---
 title: "Integrated Quantum Photonics with Semiconductor Single Photon Sources"
-excerpt: "<img src='/files/NV.png'>"
+excerpt: "<img src='/files/Dalle_pic.png'>"
 collection: portfolio
 ---
 
