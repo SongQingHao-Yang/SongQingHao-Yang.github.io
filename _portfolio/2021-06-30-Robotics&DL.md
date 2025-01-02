@@ -14,10 +14,9 @@ Teamwork to design a robot to compete for blocks pick-ups in an arena.
 - Arduino to program the line-following algorithm [code](https://github.com/AprilSweettooth/mini_bots)
 - sonic sensor to detect objects
 
-Watch the competition recording!
+Watch the competition [recording](https://github.com/SongQingHao-Yang/SongQingHao-Yang.github.io/blob/master/files/mini_bot.mp4)!
 
-![](/files/mini_bot.mp4)
-
+<video muted playsinline> <source src="/files/mini_bot.mp4" type="video/mp4"> </video>
 
 # Inmoov
 
