@@ -1,6 +1,6 @@
 ---
-title: "2021-06-30-Robotics&DL.md"
-excerpt: "EXperiments on NV centers<br/><img src='/files/NV.png'>"
+title: "Experiments on NV centers"
+excerpt: "<img src='/files/NV.png'>"
 collection: portfolio
 ---
 
