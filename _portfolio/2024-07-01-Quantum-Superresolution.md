@@ -47,6 +47,6 @@ Quantum Fisher Information matrix provides a lower bound on the covariance of an
 My approach offers partial immunity against Rayleigh’s curse, resulting in a quadratic enhancement in
 estimation precision akin to Grover’s algorithm:
 - Improved precision scaling—For separation estimation in the sub-Rayleigh regime, the precision of the
-estimator ˆl scales as 1/Varquantum(ˆl) ∼ (q2 − 2q3 + q4) l2 and 1/Varclassical(ˆl) ∼ (q2 − 2q3 + q4) l4,
+estimator l scales as 1/Var_quantum(l) ∼ (q2 − 2q3 + q4) l^2 and 1/Var_classical(l) ∼ (q2 − 2q3 + q4) l^4,
 where q is the intensity difference between the reflected pulses and l is the spatial separation between
 the two objects of interest.
