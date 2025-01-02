@@ -4,8 +4,6 @@ date: 2025-01-01
 permalink: /posts/2025/01/first-blog-post
 tags:
   - cool posts
-  - category1
-  - category2
 ---
 
 🚀 Deploying my brand new academic website in 2025!!! 🚀
