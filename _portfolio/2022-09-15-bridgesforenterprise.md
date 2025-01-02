@@ -1,6 +1,6 @@
 ---
 title: "Bridges for Enterprise"
-excerpt: "<img src='/public/img/bfe_web.png'>"
+excerpt: "<img src='/files/bfe_web.png'>"
 collection: portfolio
 ---
 
