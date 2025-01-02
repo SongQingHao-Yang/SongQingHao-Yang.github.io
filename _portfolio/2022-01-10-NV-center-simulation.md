@@ -206,8 +206,11 @@ The final state of the qubit after the second H gate is measured. The relative p
 # Reference
 
 [1] Hollendonner, M., et al. "Quantum sensing of electric field distributions of liquid electrolytes with NV-centers in nanodiamonds." arXiv preprint arXiv:2301.04427 (2023).
+
 [2] Jacques, V., et al. "Dynamic polarization of single nuclear spins by optical pumping of NV color centers in diamond at room temperature." arXiv preprint arXiv:0808.0154 (2008).
+
 [3] PHYSICAL REVIEW APPLIED 17, 044028 (2022) Zero- and Low-Field Sensing with Nitrogen-Vacancy Centers 
+
 [4] Hong, Sungkun, et al. "Nanoscale magnetometry with NV centers in diamond." MRS bulletin 38.2 (2013): 155-161.
 
 Relevant code can be found [here](https://github.com/AprilSweettooth/NV_center_simulation)
