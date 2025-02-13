@@ -1,0 +1,19 @@
+---
+title: "Hybrid Quantum Detection on Malicious Login"
+collection: talks
+type: "Talk"
+permalink: /talks/2025-02-11
+venue: "Online"
+date: 2025-02-11
+location: "AqoraNovacene"
+---
+
+[See the post here](https://www.linkedin.com/feed/update/urn:li:activity:7295527555317538818/)
+
+[More information here](https://www.youtube.com/watch?v=m3LyCYi1KL4&skip_registered_account_check=true&themeRefresh=1)
+
+
+Problem organized by [Aqora](https://aqora.io/competitions/novaceneai-beth) and hosted by [NovaceneAI](https://novacene.ai/?utm_source=LinkedIn&utm_medium=Company%20Page&utm_campaign=Visit%20Website%20Button):
+
+Suspicious login detection is a cornerstone of cybersecurity efforts, essential for identifying potential breaches and unauthorized access. Current approaches, predominantly rooted in classical machine learning algorithms, face challenges in terms of speed, accuracy, and the management of false positives. With the stakes higher than ever, there is a pressing need for more advanced solutions that can outperform existing methods.
+This competition invites participants to explore how quantum computing can revolutionize the field of cybersecurity. Participants will tackle a binary classification problem focused on improving the detection of suspicious logins. By potentially offering superior speed and accuracy, quantum computing holds the promise to significantly reduce false positives and ensure that true threats are not overlooked.
