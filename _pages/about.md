@@ -8,19 +8,22 @@ redirect_from:
 ---
 
 
-I am Song-qing-hao Yang (杨宋卿皞, Peter), a first-year PhD Student at [Cavendish, Department of Physics](https://www.phy.cam.ac.uk/), at Cambridge, working with [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc). Prior to my current studies, I completed my Bachelor's Degree ([thesis here](https://songqinghao-yang.github.io/portfolio/2023-05-01-quantum-dot)) and Master of Sciences ([thesis here](https://songqinghao-yang.github.io/portfolio/2024-07-01-Quantum-Superresolution)) at Cambridge as well.
+I am Song-qing-hao Yang (杨宋卿皞, Peter), a first-year PhD Student at [Cavendish, Department of Physics](https://www.phy.cam.ac.uk/), at Cambridge, working with:
+
+- [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc) (PhD Supervisor, Cavendish Laboratory)
+- [Dr David Arvidsson](https://scholar.google.com/citations?hl=en&user=s830IJIAAAAJ&view_op=list_works&sortby=pubdate) (Industrial Supervisor, Hitachi Cambridge Laboratory)
+- [Professor Prakash Murali](https://prakashmurali.bitbucket.io/) (Informal Supervisor, Department of Computer Science)
+- [Professor Jin-Peng Liu (刘锦鹏)](https://www.jin-peng-liu.me/) (Informal Supervisor, Tsinghua University)
+
+Prior to my current studies, I completed my Bachelor's Degree ([thesis here](https://songqinghao-yang.github.io/portfolio/2023-05-01-quantum-dot)) and Master of Sciences ([thesis here](https://songqinghao-yang.github.io/portfolio/2024-07-01-Quantum-Superresolution)) at Cambridge as well.
 
 ## Research Interest
 
-My passion lies in exploring the fascinating realm of quantum information and computation, with a particular curiosity about understanding and building quantum computers in practice, if possible. My research interests span a diverse range of topics, including Hamiltonian simulation algorithm development, distributed quantum architectural design (resource estimation) in fault-tolerant quantum computing, quantum metrology and quantum machine learning. I am also intrigued by the role of magic states in enabling quantum computation.  
+My passion lies in exploring the fascinating realm of quantum information and computation, with a particular curiosity about understanding and building quantum computers in practice, if possible. My research interests span a diverse range of topics, including **Hamiltonian simulation algorithm**, **(distributed) quantum architectural design**, **resource estimation** in fault-tolerant quantum computing, **quantum metrology**, **quantum foundation**, and **quantum machine learning**. I am also intrigued by the role of magic states in enabling quantum computation.  
 
 I thrive on collaboration and interdisciplinary work, so if our interests align, please don’t hesitate to get in touch—I’d love to connect and explore opportunities to work together!
 
 **Email:** [sqhy2@cam.ac.uk](mailto:sqhy2@cam.ac.uk)
-
-## Start-up
-
-In addition to academic research, my efforts are underway to explore practical applications of quantum computation in the industry. I co-founded a startup focused on **HIV-related quantum use-cases** provides an opportunity to apply quantum principles to critical healthcare challenges. As this project is still in its early stages, collaboration with like-minded researchers and industry experts is essential to our success.  
 
 ## XPRIZE
 
