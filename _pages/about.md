@@ -30,7 +30,6 @@ I thrive on collaboration and interdisciplinary work, so if our interests align,
 I am also participating in the [XPRIZE Quantum Challenge](https://www.xprize.org/prizes/qc-apps), a three-year global competition. This competition provides a unique platform to tackle ambitious, real-world problems through quantum technologies. I believe a well-defined use-case is the cornerstone of progress in quantum computation. It connects theoretical advancements to **tangible solutions**, guiding algorithm development, hardware design, and error mitigation techniques. Use-cases help prioritize efforts in a field with **vast potential** but **limited near-term quantum resources**, ensuring that quantum technologies address the most impactful challenges. By focusing on real-world applications, quantum computation can transition from theoretical promise to transformative impact. Discussions on potential collaborations and shared goals are highly encouraged!
 
 <div style="width:60%; text-align:center; margin-top:20px;">
-  <script type="text/javascript" id="mapmyvisitors" 
-          src="//mapmyvisitors.com/map.js?d=0qdFr3JnYfW5aDjM5IgyhfaOvvEo_1oFs4SWNyJMJrM&cl=ffffff&w=a">
-  </script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FEz0kxGyhA9OWTYHQpIq9MBZAruwzPR4Md955muuDdI&cl=ffffff&w=a"></script>
 </div>
+
