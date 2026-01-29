@@ -8,8 +8,12 @@ date: 2026-02-01
 location: "Cambridge, England"
 ---
 
+Part-II Cambridge Math course.
+
 Lecturer: 
 
 [Professor Nilanjana Datta](https://www.damtp.cam.ac.uk/user/nd255//)
+
+Syllabus:
 
 We will begin by expounding the principles of quantum mechanics in our setting (and Dirac notation) and then immediately make connections to information (quantum states viewed as information carriers, quantum teleportation) and computation (notion of qubits and quantum gates). Then we will discuss quantum cryptography (quantum key distribution), and quantum computing, culminating in an exposition of principal quantum algorithms, including the Deutsch-Jozsa algorithm, Grover's searching algorithm and an overview of Shor's quantum factoring algorithm.
