@@ -1,0 +1,35 @@
+---
+title: "Quantum Information"
+collection: teaching
+type: "Part III Physics Supervisor"
+permalink: /teaching/2026-Lent-QI-phy
+venue: "RDC"
+date: 2026-02-01
+location: "Cambridge, England"
+---
+
+Lecturer: 
+
+[Professor Crispin Barnes](https://www.phy.cam.ac.uk/profile/prof-crispin-barnes/)
+
+Synopsis
+
+Introduction: The postulates of quantum mechanics - the Copenhagen Interpretation. Quantum entanglement. Density matrices.
+
+Measurement 1: What constitutes a measurement? Schrödinger’s cat and Wigner’s friend. The Einstein-Podolsky-Rosen paradox.
+
+Some alternative interpretations of quantum mechanics: Many worlds. Bohm’s guiding waves. Transaction interpretation. Histories. Quantum-state diffusion.
+
+Hidden variables theories: Bell’s theorem; experimental tests.
+
+Quantum Entanglement: Bipartite systems: Schmidt decomposition, reduced density matrix, entanglement measures. Tripartite systems.
+
+Measurement 2: Positive Operator Value Measure (POVM); Weak measurements.
+
+Decoherence: Decoherence time.
+
+Quantum cryptography: The BB84 protocol. The no-cloning theorem. Eavesdropping strategies. Privacy amplification. Other protocols. Experimental realisations.
+
+Quantum teleportation: Theoretical strategy and experimental realisations.
+
+Quantum computing: Qubits. Logical operations. Algorithms for quantum computers: factorisation, database searches. Error correction. Possible systems for implementing quantum computing: ion traps; nuclear magnetic resonance; semiconductor quantum dots.
