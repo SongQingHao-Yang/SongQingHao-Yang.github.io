@@ -19,9 +19,7 @@ Prior to my current studies, I completed my Bachelor's Degree ([thesis here](htt
 
 ## Research Interest
 
-My passion lies in exploring the fascinating realm of quantum information and computation, with a particular curiosity about understanding and building quantum computers in practice, if possible. My research interests span a diverse range of topics, including **Hamiltonian simulation algorithm**, **(distributed) quantum architectural design**, **resource estimation** in fault-tolerant quantum computing, **quantum metrology**, **quantum foundation**, and **quantum machine learning**. I am also intrigued by the role of magic states in enabling quantum computation.  
-
-I thrive on collaboration and interdisciplinary work, so if our interests align, please don’t hesitate to get in touch—I’d love to connect and explore opportunities to work together!
+[Here](https://scholar.google.com/citations?user=BNZsQVgAAAAJ&hl=en&authuser=1) are the things I am passionate about.
 
 **Email:** [sqhy2@cam.ac.uk](mailto:sqhy2@cam.ac.uk)
 
