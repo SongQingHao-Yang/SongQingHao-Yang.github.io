@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Song-qing-hao Yang (杨宋卿皞, Peter), a first-year PhD Student at [Cavendish, Department of Physics](https://www.phy.cam.ac.uk/), at Cambridge, working with:
+I am Song-qing-hao Yang (杨宋卿皞, Peter), a second-year PhD Student at [Cavendish, Department of Physics](https://www.phy.cam.ac.uk/), at Cambridge, working with:
 
 - [Professor Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc) (PhD Supervisor, Cavendish Laboratory)
 - [Dr David Arvidsson](https://scholar.google.com/citations?hl=en&user=s830IJIAAAAJ&view_op=list_works&sortby=pubdate) (Industrial Supervisor, Hitachi Cambridge Laboratory)
